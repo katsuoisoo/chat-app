@@ -62,7 +62,7 @@ Things you may want to cover:
 | ------ | ---------- | ------------------------------ |
 | user   | references | null: false, foreign_key: true |
 | room   | references | null: false, foreign_key: true |
-
+テーブル設計
 ## messages テーブル
 
 | Column  | Type       | Options                        |
